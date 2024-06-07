@@ -1,0 +1,12 @@
+{
+  "name": "schall-evolution-milestones",
+  "version": "0.0.1",
+  "title": "Schall's Endgame Evolution Milestones",
+  "author": "SkyKiwi",
+  "homepage": "",
+  "description": "Automatically configures kill milestones for Schall's Endgame Evolution",
+  "factorio_version": "1.1",
+  "dependencies": [
+		"Milestones", "SchallEndgameEvolution"
+  ]
+}
